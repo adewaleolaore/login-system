@@ -1,0 +1,47 @@
+body {
+	background-color: #ffc700;
+	font: 16px sans-serif;
+	color: #212121;
+}
+
+.wrapper {
+	width: 800px;
+	background-color: white;
+	margin: 80px auto;
+	padding: 30px;
+	border-radius: 8px;
+}
+
+h1 {
+	font-size: 36px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 24px;
+	text-align: center;
+}
+
+input {
+	padding: 13px;
+    border: #CCC 1px solid;
+    border-radius: 4px;
+    width: 96%;
+}
+
+.btn {
+    padding: 13px;
+    background-color: #ffc700;
+    color: #212121;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 100%;
+    border: #ffc800 1px solid;
+    font-size: 18px;
+}
+
